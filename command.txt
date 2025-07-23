@@ -1,7 +1,0 @@
-PS C:\Users\chidi\Desktop\oc_youtube_downloader_app> if (Test-Path build) { Remove-Item -Recurse -Force build }
->> if (Test-Path dist) { Remove-Item -Recurse -Force dist }
->> if (Test-Path __pycache__) { Remove-Item -Recurse -Force __pycache__ }
->> Remove-Item -Force *.spec -ErrorAction SilentlyContinue
->> 
->> & "$env:USERPROFILE\AppData\Roaming\Python\Python312\Scripts\pyinstaller.exe" --onefile --noconsole --icon=icon.ico oc_youtube_gui_downloader.py
->> 
