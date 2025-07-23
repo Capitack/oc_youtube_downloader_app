@@ -45,7 +45,7 @@ A simple and user-friendly YouTube video and audio downloader with a graphical i
 ## 🚀 Quick Start if you just want to download videos out of box 
 
 ### 📥 Download and Run
-1. **Download** the latest release package (ZIP file) from the [Releases](https://github.com/yourusername/oc-youtube-downloader/releases) page
+1. **Download** the latest release package (ZIP file) from the [Releases](https://github.com/Capitack/oc_youtube_downloader_apps) page
 2. **Extract** the ZIP file to a folder of your choice
 3. **Important**: Keep these files together in the same folder:
    - `OC_YouTube_Downloader.exe`
